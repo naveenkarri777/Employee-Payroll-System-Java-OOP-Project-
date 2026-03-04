@@ -25,6 +25,7 @@ Generate employee payslips
 It is a beginner-friendly learning project to strengthen Java OOP fundamentals.
 
 🏗️ Project Structure
+
 1️⃣ Abstract Class: Employee
 
 Base class that contains:
@@ -52,6 +53,7 @@ bonus
 Salary Formula:
 
 Salary = baseSalary + bonus
+
 3️⃣ PartTimeEmployee
 
 Inherits from Employee
@@ -65,6 +67,7 @@ hourlyRate
 Salary Formula:
 
 Salary = hoursWorked × hourlyRate
+
 4️⃣ ContractEmployee
 
 Inherits from Employee
@@ -76,6 +79,7 @@ contractAmount
 Salary Formula:
 
 Salary = contractAmount
+
 5️⃣ PayrollSystem (Main Class)
 
 Displays menu options
@@ -87,6 +91,7 @@ Stores employees in a collection (e.g., ArrayList)
 Generates payslips
 
 🖥️ How to Run the Project
+
 🔹 Step 1: Compile the Project
 
 If using terminal:
